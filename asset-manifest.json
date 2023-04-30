@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsit/static/css/main.a39fb11b.css",
+    "main.js": "/reactlivewebsit/static/js/main.55dcbf6c.js",
+    "static/js/787.3f3275e8.chunk.js": "/reactlivewebsit/static/js/787.3f3275e8.chunk.js",
+    "static/media/long-s7.jpg": "/reactlivewebsit/static/media/long-s7.2a1d1e391ebfa3b74b24.jpg",
+    "static/media/s4.jpg": "/reactlivewebsit/static/media/s4.bb692f9555fc5a545547.jpg",
+    "static/media/long-s8.jpg": "/reactlivewebsit/static/media/long-s8.b671706a9e773a0cc203.jpg",
+    "static/media/long-s12.jpg": "/reactlivewebsit/static/media/long-s12.338453538ff9c89d6e65.jpg",
+    "static/media/s1.jpg": "/reactlivewebsit/static/media/s1.4804270aeceeeb6fd522.jpg",
+    "static/media/backgroundcab.jpg": "/reactlivewebsit/static/media/backgroundcab.f3020bedf4df59700287.jpg",
+    "static/media/s2.jpg": "/reactlivewebsit/static/media/s2.e1b207b62b6505f76e64.jpg",
+    "static/media/taxi1.jpg": "/reactlivewebsit/static/media/taxi1.b0bdc609ae26cf9e2235.jpg",
+    "static/media/truck-3.png": "/reactlivewebsit/static/media/truck-3.9cd52b0574f710212fb6.png",
+    "static/media/truck-1.png": "/reactlivewebsit/static/media/truck-1.ded007e2f01f0f7a5d04.png",
+    "static/media/truck-2.png": "/reactlivewebsit/static/media/truck-2.0703013cd4df47619302.png",
+    "static/media/revicons.eot": "/reactlivewebsit/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/reactlivewebsit/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/reactlivewebsit/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/reactlivewebsit/index.html",
+    "main.a39fb11b.css.map": "/reactlivewebsit/static/css/main.a39fb11b.css.map",
+    "main.55dcbf6c.js.map": "/reactlivewebsit/static/js/main.55dcbf6c.js.map",
+    "787.3f3275e8.chunk.js.map": "/reactlivewebsit/static/js/787.3f3275e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39fb11b.css",
+    "static/js/main.55dcbf6c.js"
+  ]
+}
